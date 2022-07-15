@@ -10,6 +10,7 @@ const config = {
   tagline: '',
   url: 'https://tigaputr.asia',
   baseUrl: '/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -65,7 +66,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'welcome',
+            docId: 'intro',
             position: 'left',
             label: 'User Guide',
           },
