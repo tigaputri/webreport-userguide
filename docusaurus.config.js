@@ -9,7 +9,7 @@ const config = {
   title: 'Web Report TigaPutri User Guide',
   tagline: '',
   url: 'https://tigaputr.asia',
-  baseUrl: '/',
+  baseUrl: '/webreport-userguide/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
