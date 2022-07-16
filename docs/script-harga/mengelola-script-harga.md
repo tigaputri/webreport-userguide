@@ -26,7 +26,7 @@ Keterangan:
 
 5. Jika pilih `AKTIF`, maka halaman list harga produk tersebut bisa dibuka. Jika pilih `NON AKTIF`, maka saat halaman list harga produk dibuka akan muncul error `404 Not found`.
 
-- Jika sudah, klik tombol `Generate` untuk membuat halaman list harga produk.
+- Jika sudah, klik tombol `Generate` untuk membuat halaman list harga produk. Setelah di generate, maka script akan tampil di tabel Script Harga
 
 - Untuk melihat hasil tampilan halaman list harga produk, klik tombol `Lihat halaman` di tabel
 

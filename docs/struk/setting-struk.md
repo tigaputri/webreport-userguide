@@ -22,7 +22,11 @@ Langkah-langkah untuk setting struk sebagai berikut:
 
    ![Pilih produk struk](/img/ug/struk-builder-2.png)
 
-5. Selanjutnya, buka halaman Transaksi di software TigaPutri. Pilih salah satu transaksi sukses sebagai sampel dan copy nilai di kolom keterangan pada transaksi tersebut kemudian paste ke **Sample Keterangan Transaksi** di Struk Builder tadi. **CATATAN**: Pastikan saat menyetting penangkapan jawaban Sukses dari supplier, juga menangkap kata kunci `keterangan`
+5. Selanjutnya, buka halaman Transaksi di software TigaPutri. Pilih salah satu transaksi sukses sebagai sampel dan copy nilai di kolom keterangan pada transaksi tersebut kemudian paste ke **Sample Keterangan Transaksi** di Struk Builder tadi.
+
+   :::note CATATAN
+   Pastikan saat menyetting penangkapan jawaban Sukses dari supplier, juga menangkap kata kunci `keterangan`
+   :::
 
 6. Lakukan penangkapan katakunci di **Format Parsing Struk**, caranya seperti saat menangkap jawaban supplier menggunakan regex di software TigaPutri. Contohnya:
 Sample keterangan:
