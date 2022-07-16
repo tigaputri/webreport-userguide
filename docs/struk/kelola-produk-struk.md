@@ -10,14 +10,14 @@ Untuk menambahkan produk ke kelompok produk struk, ikuti langkah-angkah berikut 
 
 1. Login sebagai Administrator
 
-2. Pilih menu `Struk` → `Kelola Produk Struk`
+2. Pilih menu `Pengaturan` → `Struk` → `Kelola Produk Struk`
 
 3. Pada halaman Produk Struk, klik `edit` pada produk yang mau diubah
 
-   ![Halaman produk struk](https://www.nfsreload.com/media/wr/setting_produk_struk.png)
+   ![Halaman produk struk](/img/ug/setting_produk_struk.png)
 
 4. Masukkan daftar produknya
 
-    ![Edit produk struk](https://www.nfsreload.com/media/wr/update_produk_struk.png)
+    ![Edit produk struk](/img/ug/update_produk_struk.png)
 
 5. Klik `Update`

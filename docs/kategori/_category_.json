@@ -1,0 +1,8 @@
+{
+  "label": "Kategori Produk",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Menampilkan daftar produk dan harga ke dalam kategori"
+  }
+}

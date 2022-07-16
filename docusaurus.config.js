@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Web Report TigaPutri User Guide',
+  title: 'Web Report TigaPutri',
   tagline: '',
-  url: 'https://tigaputr.asia',
+  url: 'https://tigaputri.asia',
   baseUrl: '/webreport-userguide/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
@@ -26,8 +26,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'id',
+    locales: ['id'],
   },
 
   presets: [
@@ -37,6 +37,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:

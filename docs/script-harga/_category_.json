@@ -1,0 +1,8 @@
+{
+  "label": "Script Harga",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Membuat halaman list harga produk"
+  }
+}

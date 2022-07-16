@@ -16,11 +16,11 @@ Langkah-langkah untuk setting struk sebagai berikut:
 
 3. Klik tombol `Tambah` maka halaman `Struk Builder` akan terbuka.
 
-   ![Halaman struk builder](https://www.nfsreload.com/media/wr/struk-builder-1.png)
+   ![Halaman struk builder](/img/ug/struk-builder-1.png)
 
 4. Kemudian, pilih produk. Maka di samping kanan akan muncul daftar katakunci yang tersedia. Setiap produk memiliki katakunci yang berbeda-beda. Misalnya produk yang dipilih adalah `PLN Token`.
 
-   ![Pilih produk struk](https://www.nfsreload.com/media/wr/struk-builder-2.png)
+   ![Pilih produk struk](/img/ug/struk-builder-2.png)
 
 5. Selanjutnya, buka halaman Transaksi di software TigaPutri. Pilih salah satu transaksi sukses sebagai sampel dan copy nilai di kolom keterangan pada transaksi tersebut kemudian paste ke **Sample Keterangan Transaksi** di Struk Builder tadi. **CATATAN**: Pastikan saat menyetting penangkapan jawaban Sukses dari supplier, juga menangkap kata kunci `keterangan`
 
@@ -34,7 +34,7 @@ Format parsing struk:
 
 7. Jika formatnya benar, maka akan tampil di **Parameter yang berhasil ditangkap:**
 
-   ![Contoh hasil pembacaan](https://www.nfsreload.com/media/wr/struk-builder-3.png)
+   ![Contoh hasil pembacaan](/img/ug/struk-builder-3.png)
 
 8. Setting prioritasnya, jika sudah kemudian klik tombol `Simpan`
 
